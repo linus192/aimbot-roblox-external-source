@@ -32,4 +32,4 @@ Common required setup:
 Made by Linus
 Telegram: t.me/linus1
 
-Have fun experimenting and learning :)
+Have fun :)
